@@ -1,0 +1,8 @@
+[
+  {
+    "username": "SECRET_USER",
+    "password": "SECRET_PASSWORD",
+    "online": true,
+    "games": []
+  }
+]
